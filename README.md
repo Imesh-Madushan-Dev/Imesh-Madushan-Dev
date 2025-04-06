@@ -1,11 +1,18 @@
 [![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)](https://rishavchanda.io)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=0891B2&center=true&vCenter=true&random=false&width=635&lines=Hi+%F0%9F%91%8B+I'm+Imesh+Madushan;Flutter+Developer;Computer+Science+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Imesh Madushan</h1>
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0891B2&center=true&vCenter=true&random=false&width=635&lines=Flutter+Developer;Computer+Science+Student;Open+Source+Enthusiast;Mobile+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&color=0891b2&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Imesh-Madushan-Dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Imesh-Madushan-Dev?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" alt="GitHub User's stars">
+  <img src="https://img.shields.io/github/last-commit/Imesh-Madushan-Dev/Imesh-Madushan-Dev?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" alt="Last Commit">
 </div>
 
 ## 👨‍💻 About Me
@@ -22,11 +29,20 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🚀 Current Projects
+## 📈 GitHub Stats
 
-- **Road Defect Reporter** - A Flutter mobile app for reporting road defects with location-based tracking
-- **Personal Portfolio** - A responsive web portfolio built with React
-- **Flutter UI Components** - Open source library of reusable Flutter UI components
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imesh-Madushan-Dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Imesh-Madushan-Dev's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Madushan-Dev&layout=compact&title_color=0891b2&hide=html&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Madushan-Dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
 
 ## 🛠️ Skills
 
@@ -34,6 +50,12 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 <p align="left">
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40" alt="Dart" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" />
@@ -53,6 +75,15 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 <p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="Next.js" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" />
@@ -103,23 +134,8 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imesh-Madushan-Dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Imesh-Madushan-Dev's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Madushan-Dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Madushan-Dev&layout=compact&title_color=0891b2&hide=html&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🏆 Achievements
 
-- 🥇 Finalist in National App Development Competition 2023
 - 🏅 Google Developer Student Club Member
 - ⭐ 50+ Stars on GitHub Projects
 - 🔥 Contributed to 5+ Open Source Projects
@@ -127,9 +143,6 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.github.com/Imesh-Madushan-Dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Imesh-Madushan-Dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers badge" />
-  </a>
   <a href="https://www.github.com/Imesh-Madushan-Dev" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
