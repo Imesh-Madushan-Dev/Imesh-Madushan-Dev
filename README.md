@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/github/last-commit/Imesh-Madushan-Dev/Imesh-Madushan-Dev?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" alt="Last Commit">
 </div>
 
+
 ## 👨‍💻 About Me
 
 I'm a passionate developer and student based in Sri Lanka, currently focusing on Flutter development and exploring various technologies. I love building mobile applications and contributing to open source projects.
@@ -27,9 +28,10 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 - 🤝 Open to collaborating on **Flutter Development** and **Open Source Projects**
 - ⚡ `git commit -m "Cooking rn 🔥"`
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## 📈 GitHub Stats
+
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imesh-Madushan-Dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Imesh-Madushan-Dev's GitHub stats" />
@@ -136,6 +138,7 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 
 ## 🏆 Achievements
 
+- 🥇 Finalist in National App Development Competition 2023
 - 🏅 Google Developer Student Club Member
 - ⭐ 50+ Stars on GitHub Projects
 - 🔥 Contributed to 5+ Open Source Projects
