@@ -138,8 +138,8 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 
 ## 💖 Support Me
 
-<p><a href="https://buymeacoffee.com/imesh.madushan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
-<p><a href="[https://www.ko-fi.com/imesh-madushan-dev](https://ko-fi.com/imeshmadushan)"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" /></a></p>
+<p><a href="https://buymeacoffee.com/imesh.madushan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="[https://www.ko-fi.com/imesh-madushan-dev](https://ko-fi.com/imeshmadushan)"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" /></a></p>
 
 
 
@@ -149,6 +149,3 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imesh-Madushan-Dev&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imesh-Madushan-Dev&theme=github_dark)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
-</div>
