@@ -23,7 +23,7 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 
 ## 🛠️ Skills
 
-<h3 align="left">Languages</h3>
+
 <p align="left">
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40" alt="Dart" />
@@ -46,10 +46,6 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
   </a>
-</p>
-
-<h3 align="left">Frameworks & Development Tools</h3>
-<p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" />
   </a>
@@ -77,10 +73,6 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" />
   </a>
-</p>
-
-<h3 align="left">Web Development & Design</h3>
-<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   </a>
@@ -96,11 +88,7 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="40" height="40" alt="Illustrator" />
   </a>
-</p>
-
-<h3 align="left">Cloud & Others</h3>
-<p align="left">
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" alt="Google Cloud" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -110,6 +98,7 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="40" height="40" alt="MetaMask" />
   </a>
 </p>
+
 
 
 ## 🔗 Connect With Me
@@ -152,12 +141,14 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 <p><a href="https://buymeacoffee.com/imesh.madushan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
 <p><a href="[https://www.ko-fi.com/imesh-madushan-dev](https://ko-fi.com/imeshmadushan)"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" /></a></p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
-</div>
+
 
 ## GitHub Stats
 <a href="http://www.github.com/Imesh-Madushan-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Madushan-Dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imesh-Madushan-Dev&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imesh-Madushan-Dev&theme=github_dark)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
+</div>
