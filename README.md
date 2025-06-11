@@ -99,6 +99,15 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
   </a>
 </p>
 
+
+<br/>
+
+## GitHub Stats
+<a href="http://www.github.com/Imesh-Madushan-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Madushan-Dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imesh-Madushan-Dev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imesh-Madushan-Dev&theme=github_dark)
+
 <br/>
 
 ## 🔗 Connect With Me
@@ -140,12 +149,3 @@ I'm a passionate developer and student based in Sri Lanka, currently focusing on
 
 <p><a href="https://buymeacoffee.com/imesh.madushan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <a href="[https://www.ko-fi.com/imesh-madushan-dev](https://ko-fi.com/imeshmadushan)"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" /></a></p>
-
-<br/>
-
-## GitHub Stats
-<a href="http://www.github.com/Imesh-Madushan-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Madushan-Dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imesh-Madushan-Dev&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imesh-Madushan-Dev&theme=github_dark)
-
