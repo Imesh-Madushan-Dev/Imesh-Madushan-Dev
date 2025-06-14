@@ -1,5 +1,3 @@
-[![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)](https://rishavchanda.io)
-
 
   <h1>Hi 👋, I'm Imesh Madushan</h1>
 
