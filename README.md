@@ -1,6 +1,6 @@
 
   <h1>Hi 👋, I'm Imesh Madushan</h1>
-<img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&color=0891b2&style=for-the-badge" alt="Profile Views"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
 I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently diving deep into web and mobile development. I love building mobile applications and actively contributing to open source projects. Always curious, always learning.
