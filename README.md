@@ -10,19 +10,14 @@ I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently 
 - 🧠 Currently learning **Evreryting.**
 - 🤝 Open to collaborating on **Flutter Development** and **Open Source Projects**
 
-- 🎨 **Frontend** : 
-  - Next.js, React, Flutter, Tailwind CSS, Bootstrap, Laravel
-- 🟢 **Backend**: 
-  - Node.js, Express.js
-- 🍃 **Databases**: 
-  - MongoDB, MySQL, PostgreSQL, Firebase
-- 💻 **Languages**: 
-  - JavaScript, TypeScript, Dart, HTML, CSS, Python, C++, C#, Java, PHP
-- 🐙 **Tools**: 
-  - Git, GitHub, Vercel, HugginFace
+- 🎨 **Frontend** : Next.js, React, Flutter, Tailwind CSS, Bootstrap, Laravel
+- 🟢 **Backend**: Node.js, Express.js
+- 🍃 **Databases**: MongoDB, MySQL, PostgreSQL, Firebase
+- 💻 **Languages**: JavaScript, TypeScript, Dart, HTML, CSS, Python, C++, C#, Java, PHP
+- 🐙 **Tools**: Git, GitHub, Vercel, HugginFace
 
 
-<br >
+
 <div align="center">
 
 
@@ -36,7 +31,7 @@ I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently 
   
 </div>
 
-<br/>
+
 
 
 
