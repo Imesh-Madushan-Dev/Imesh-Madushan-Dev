@@ -2,6 +2,7 @@
   <h1>Hi 👋, I'm Imesh Madushan</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat"/> 
+  
    [![WhatsApp](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94753045366)
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/___imesh____/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh--madushan)
