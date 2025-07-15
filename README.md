@@ -26,7 +26,7 @@ I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently 
 - 🐙 **Tools**: Git, GitHub, Vercel, HugginFace
 
 
-### 📊 GitHub Stats
+
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=tokyonight)
