@@ -20,9 +20,7 @@
 I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently diving deep into web and mobile development. I love building mobile applications and actively contributing to open source projects. Always curious, always learning.
 
 - 🖥️ Check out my portfolio at [portfolio](http://imesh-madushan.vercel.app/)
-- ✉️ Contact me at [imeshmadushandev@gmail.com](mailto:imeshmadushandev@gmail.com)
-- 🧠 Currently learning **Evreryting.**
-- 🤝 Open to collaborating on **Flutter Development** and **Open Source Projects**
+
 
 - 🎨 **Frontend** : _Next.js, React, Flutter, Tailwind CSS, Bootstrap, Laravel_
 - 🟢 **Backend**: _Node.js, Express.js_
