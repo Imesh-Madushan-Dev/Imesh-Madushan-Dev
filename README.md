@@ -11,6 +11,11 @@
   
 </p>
 
+<p align="left">
+  
+   [![Ko-fi](https://img.shields.io/badge/-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/imeshmadushan)
+   [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imesh.madushan)  
+</p>
 
 I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently diving deep into web and mobile development. I love building mobile applications and actively contributing to open source projects. Always curious, always learning.
 
@@ -38,14 +43,3 @@ I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently 
 </div>
 
 
-<br>
-<div align="center">
-
-  💖 Support Me
-
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/imeshmadushan)
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imesh.madushan)
-  
-</div>
-
-<br/>
