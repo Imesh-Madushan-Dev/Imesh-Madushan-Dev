@@ -32,7 +32,7 @@ I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently 
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=tokyonight)
+![](https://github-readme-streak-stats-black-beta.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imesh-Madushan-Dev&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imesh-Madushan-Dev&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Imesh-Madushan-Dev&theme=tokyonight)](https://git.io/streak-stats)
