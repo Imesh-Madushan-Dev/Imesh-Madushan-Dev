@@ -1,5 +1,4 @@
-
-  <h1>Hi 👋, I'm Imesh Madushan</h1>
+<h1>Hi 👋, I'm Imesh Madushan</h1>
 <p align="left"> 
 
    [![WhatsApp](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94753045366)
