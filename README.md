@@ -56,8 +56,8 @@ I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka 🇱�
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imesh-Madushan-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Imesh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Madushan-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=tokyonight&hide_border=true" alt="Imesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Madushan-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"  />
 </p>
 
 <p align="center">
