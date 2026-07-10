@@ -1,43 +1,90 @@
-<h1>Hi 👋, I'm Imesh Madushan</h1>
-<p align="left"> 
+<h1 align="center">Hi 👋, I'm Imesh Madushan</h1>
 
-   [![WhatsApp](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94753045366)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/___imesh____/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh--madushan)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Imesh-Madushan-Dev)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://imesh-madushan.vercel.app/)
-    <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat"/> 
-  
-</p>
-                   
-<p align="left">
-  
-   [![Ko-fi](https://img.shields.io/badge/-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/imeshmadushan)
-   [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imesh.madushan)  
+<p align="center">
+  <a href="http://imesh-madushan.vercel.app/">Portfolio</a> •
+  <a href="https://iconnix.lk/">ICONNIX</a>
 </p>
 
-I'm a passionate Full-Stack Developer and student based in Sri Lanka, currently diving deep into web and mobile development. I love building mobile applications and actively contributing to open source projects. Always curious, always learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🖥️ Check out my portfolio at [portfolio](http://imesh-madushan.vercel.app/)
+---
 
+### 👨‍💻 About Me
 
-- 🎨 **Frontend** : _Next.js, React, Flutter, Tailwind CSS, Bootstrap, Laravel_
-- 🟢 **Backend**: _Node.js, Express.js_
-- 🍃 **Databases**: _MongoDB, MySQL, PostgreSQL, Firebase_
-- 💻 **Languages**: _JavaScript, TypeScript, Dart, HTML, CSS, Python, C++, C#, Java, PHP_
-- 🐙 **Tools**: _Git, GitHub, Vercel, HugginFace_
+I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka 🇱🇰**, currently diving deep into web and mobile development. I love building mobile applications and contributing to open source. Always curious, always learning.
 
+- 🖥️ Explore my work → **[Portfolio](http://imesh-madushan.vercel.app/)**
+- 🚀 Want to build something great together? Let's connect through **[ICONNIX](https://iconnix.lk/)**
+- 🌱 Currently sharpening my skills across modern web & mobile stacks
+- 💬 Ask me about **Next.js, Flutter, Node.js & PostgreSQL**
 
+---
 
-<div align="center">
-  
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imesh-Madushan-Dev&theme=tokyonight) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imesh-Madushan-Dev&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imesh-Madushan-Dev&theme=tokyonight)
-![](https://github-readme-streak-stats-black-beta.vercel.app?user=Imesh-Madushan-Dev&theme=tokyonight)
+### 🛠️ Tech Stack
 
+**Frontend**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-</div>
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imesh-Madushan-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Imesh's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Madushan-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Madushan-Dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="http://imesh-madushan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://iconnix.lk/"><img src="https://img.shields.io/badge/ICONNIX-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="ICONNIX" /></a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/Imesh-Madushan-Dev">Imesh-Madushan-Dev</a></i></p>
