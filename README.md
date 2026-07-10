@@ -14,7 +14,7 @@ I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka 🇱�
 - 🌱 Currently sharpening my skills across modern web & mobile stacks
 - 💬 Ask me about **Next.js, Flutter, Node.js & PostgreSQL**
 
----
+
 
 ### 🛠️ Tech Stack
 
