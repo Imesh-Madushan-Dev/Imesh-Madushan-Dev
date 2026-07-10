@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Imesh Madushan</h1>
+<h1>Hi 👋, I'm Imesh Madushan</h1>
+<p align="left"> 
 
-<p align="center">
-  <a href="http://imesh-madushan.vercel.app/">Portfolio</a> •
-  <a href="https://iconnix.lk/">ICONNIX LK</a>
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://iconnix.lk/)
+    <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat"/> 
+  
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
