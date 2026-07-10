@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm Imesh Madushan</h1>
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat"/> 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://iconnix.lk/)
-
+    
+<img src="https://komarev.com/ghpvc/?username=Imesh-Madushan-Dev&label=Profile%20views&color=0e75b6&style=flat"/> 
   
 </p>
 
