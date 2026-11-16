@@ -16,6 +16,6 @@ I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka**, cu
 ### GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imesh-Madushan-Dev&theme=tokyonight" alt="Repositories per language" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Madushan-Dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imesh-Madushan-Dev&theme=tokyonight" alt="Repositories per language" />
 </p>
