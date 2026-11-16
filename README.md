@@ -12,6 +12,11 @@ I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka**, cu
 - Want to build something great together? Let's connect through **[ICONNIX LK](https://iconnix.lk/)**
 - Currently sharpening my skills across modern web & mobile stacks
 
+### Contact
+
+- LinkedIn: [in/imesh--madushan](https://www.linkedin.com/in/imesh--madushan/)
+- X: [@ImeshMadushan_](https://x.com/ImeshMadushan_)
+
 ### GitHub stats
 
 <p align="center">
