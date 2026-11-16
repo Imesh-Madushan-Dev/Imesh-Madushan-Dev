@@ -6,11 +6,10 @@
 
 ### About me
 
-I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka**, currently diving deep into web and mobile development. I love building mobile applications and contributing to open source. Always curious, always learning.
+I'm a **Full-Stack Developer** and student based in **Sri Lanka**, and the founder of **[ICONNIX LK](https://iconnix.lk/)** and **[Storzy LK](https://storzy.lk/)**, the e-commerce SaaS I'm currently building. I love creating products and contributing to open source. Always curious, always learning.
 
 - Explore my work → **[Portfolio](http://imesh-madushan.vercel.app/)**
 - Want to build something great together? Let's connect through **[ICONNIX LK](https://iconnix.lk/)**
-- Currently sharpening my skills across modern web & mobile stacks
 
 ### Contact
 
