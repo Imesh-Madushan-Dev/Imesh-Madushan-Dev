@@ -6,10 +6,10 @@
 
 ### About me
 
-I'm a full-stack developer and student from Sri Lanka. I founded **[ICONNIX LK](https://iconnix.lk/)**, a software agency, and I'm now building **[Storzy LK](https://storzy.lk/)**, my own SaaS for running an online store without code. I like making things people actually use, and I contribute to open source when I can.
+I'm a full-stack developer and student from Sri Lanka. I founded **[ICONNIX](https://iconnix.lk/)**, a software agency, and I'm now building **[Storzy](https://storzy.lk/)**, my own SaaS for running an online store without code. I like making things people actually use, and I contribute to open source when I can.
 
-- Want to build something great together? Let's connect through **[ICONNIX LK](https://iconnix.lk/)**
-- Need a free e-commerce website? Build one with **[Storzy LK](https://storzy.lk/)**
+- Want to build something great together? Let's connect through **[ICONNIX](https://iconnix.lk/)**
+- Need a free e-commerce website? Build one with **[Storzy](https://storzy.lk/)**
 
 ### Contact
 
