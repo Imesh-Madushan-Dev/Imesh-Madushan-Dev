@@ -11,7 +11,6 @@ I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka**, cu
 - Explore my work → **[Portfolio](http://imesh-madushan.vercel.app/)**
 - Want to build something great together? Let's connect through **[ICONNIX LK](https://iconnix.lk/)**
 - Currently sharpening my skills across modern web & mobile stacks
-- Ask me about **Next.js, Flutter, Node.js & PostgreSQL**
 
 ### GitHub stats
 
