@@ -14,6 +14,7 @@ I'm a passionate **Full-Stack Developer** and student based in **Sri Lanka**, cu
 
 ### Contact
 
+- Email: [imeshmadushandev@gmail.com](mailto:imeshmadushandev@gmail.com)
 - LinkedIn: [in/imesh--madushan](https://www.linkedin.com/in/imesh--madushan/)
 - X: [@ImeshMadushan_](https://x.com/ImeshMadushan_)
 
